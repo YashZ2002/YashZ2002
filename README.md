@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services, React**
 
-- 💬 Ask me about **Java, Spring Framework, Python, CSS/HTML, Javascript,SQL, MySQL,Amazon Services**
+- 💬 Ask me about **Java, Node.js, Spring Framework, Python, CSS/HTML, Javascript,SQL, MySQL,Amazon Services**
 
 - 📫 How to reach me **zaveri.y@northeastern.edu**
 
